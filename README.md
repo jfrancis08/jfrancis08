@@ -16,7 +16,7 @@ I'm passionate about merging business strategy, human resurces and technology to
 
 ### Let's Connect
 
-[LinkedIn](www.linkedin.com/in/francisco-chiquito)
+[LinkedIn](https://www.linkedin.com/in/francisco-chiquito/)
 
 [Instagram](https://www.instagram.com/cs_franc/)
 <!-- 
