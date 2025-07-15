@@ -1,6 +1,19 @@
-## Hi there 👋
+# Hi, I'm Francisco Chiquitó 👋
 
-<!--
+## 📊 Business Administration & HR Development Student | 💻 Self-Taught Developer 
+
+I'm passionate about merging business strategy, human resurces and technology to create efficient, people-first solutions. Currently learning Python, SQL and maybe JS in the future. 
+
+🌱 I’m currently learning: Programing
+
+🤔 I’m looking for help with Python 🐍
+
+💬 Ask me about: History ☝🤓
+
+🐱‍🐉Hobbies: GYM 🦍 Video Games 👾 Movies 🎞 Books 📙
+
+
+<!-- 
 **jfrancis08/jfrancis08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,5 +25,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
