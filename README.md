@@ -12,12 +12,13 @@ I'm passionate about merging business strategy, human resurces and technology to
 
 🐱‍🐉Hobbies: GYM 🦍 Video Games 👾 Movies 🎞 Books 📙
 
+---
+
 ### Let's Connect
 
-![LinkedIn](https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffrancisco-chiquito%2F)
+[LinkedIn](www.linkedin.com/in/francisco-chiquito)
 
-![Instagram](https://img.shields.io/website?url=https%3A%2F%2Fwww.instagram.com%2Fcs_franc%2F)
-
+[Instagram](https://www.instagram.com/cs_franc/)
 <!-- 
 **jfrancis08/jfrancis08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
